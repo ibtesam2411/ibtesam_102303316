@@ -40,3 +40,22 @@ python topsis.py data.csv "1,1,1,2" "+,+,-,+" result.csv
 6.Screenshot of the Interface The interface is designed to be clean and user-friendly, as shown below:
 <img width="1071" height="663" alt="image" src="https://github.com/user-attachments/assets/ab07336e-e080-4ba5-9b9b-7de214d78034" />
 7.Conclusion This project provides a complete and automated solution for TOPSIS-based decision making using both a command-line interface and a web-based application.
+The program handles the following cases:
+
+*Incorrect number of command-line arguments
+
+*File not found exception
+
+*Input file with less than three columns
+
+*Non-numeric values in criteria columns
+
+*Mismatch between number of weights, impacts, and criteria
+
+*Invalid impact symbols
+
+8.Conclusion: This project provides a complete and automated solution for TOPSIS-based decision making using both a command-line interface and a web-based application.
+
+9.Author: Md Ibtesam
+
+10.License: This project is intended for academic and educational use.
