@@ -28,7 +28,7 @@ PyPI Package Name: Topsis-MdIbtesam-102303316
 Installation Command:
 
 pip install Topsis-MdIbtesam-102303316
-
+link-https://pypi.org/project/Topsis-MDIBTESAM-102303316/1.0.0/
 Command Line Usage:
 
 python topsis.py INPUT_FILE WEIGHTS IMPACTS OUTPUT_FILE
