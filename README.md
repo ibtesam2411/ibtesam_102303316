@@ -11,7 +11,7 @@ Model Testing: Calculating the distance of each alternative from the Ideal Best 
 
 Result Analysis: Computing the TOPSIS score and ranking the alternatives.
 
-2.Description This web service allows users to upload a dataset and receive ranked results directly via email. It is built using Python (Django) and Pandas for efficient data processing.
+2.Description This web service allows users to upload a dataset and receive ranked results directly via email. It is built using Python (streamlit) and Pandas for efficient data processing.
 Functionality: Automates the TOPSIS ranking process.
 
 Core Library: Uses NumPy for matrix calculations and Pandas for CSV handling.
